@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # password-reset-frontend
 =======
 # Getting Started with Create React App
